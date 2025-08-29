@@ -8,5 +8,6 @@ Commands Used:
 1) npx express-generator --no-view --git ./
 2) npm i --save-dev nodemon
 3) npx eslint --init
+4) Git commands (to save in repo)
 
 eslint.config.js = Make sures that our codebase is clean
