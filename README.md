@@ -5,9 +5,11 @@
 5. Automating subscription tracking with Upstash workflows
 
 Commands Used:
-1) npx express-generator --no-view --git ./
-2) npm i --save-dev nodemon
-3) npx eslint --init
-4) Git commands (to save in repo)
-
+npx express-generator --no-view --git ./
+npm i --save-dev nodemon
+npx eslint --init
+// Git commands (to save in repo)
+npm i dotenv
+npm i mongodb mongoose
+npm i jsonwebtoken bcrypt
 eslint.config.js = Make sures that our codebase is clean
