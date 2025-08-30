@@ -12,4 +12,6 @@ npx eslint --init
 npm i dotenv
 npm i mongodb mongoose
 npm i jsonwebtoken bcrypt
+npm i @arcjet/node @arcjet/inspect
+
 eslint.config.js = Make sures that our codebase is clean
